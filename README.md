@@ -23,16 +23,11 @@ This is my Pytorch implementation of Learning to See in the Dark in CVPR 2018. F
 ![Denoise a random image in original dataset](figures/results.png)
 
 
-**Testing cross sensor generalizaion**
-
-*This image was taken on a Sony RX100VI with a 1-inch Bayer sensor*
-![Cross Sensor](figures/result3.png)
-
-
-
 ## Requirements
 - 128GB RAM
 - Pytorch 1.0
 - Numpy + Rawpy
 - Matplotlib
 - GPU : Nvidia RTX1800
+
+## References 
