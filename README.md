@@ -6,6 +6,15 @@ This is my Pytorch implementation of Learning to See in the Dark in CVPR 2018. F
 
 [Original Tensorflow implementation](https://github.com/cchen156/Learning-to-See-in-the-Dark) by Chen Chen
 
+# Presented by
+yt2188@nyu.edu – Yash Thesia
+ms12418@nyu.edu – Meera Suthar
+
+# Abstract
+
+This term paper surveys various research papers aimed at forecasting weather. We explore cutting-edge research towards deep learning algorithms and technology. Convolutional networks help preserve information of data points in physical or logical proximity when placed together on a matrix, and help reduce the computation size using the concept of 2-D filters, for example precipitation levels of a location based on levels of neighboring cities or towns. Recurrent networks help preserve information gained with past iterations of training, and are thus much more flexible when trying to analyze time-series data, like today’s precipitation levels based on past precipitation levels. And autoencoders help overcome overfitting by extracting useful features from the given data, which also helps reduce the vanishing gradient problem.
+
+
 ## Results
 |                   | PSNR on test set | 
 |-------------------|------------------|
