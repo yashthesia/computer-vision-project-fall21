@@ -21,6 +21,7 @@ This term paper surveys various research papers aimed at forecasting weather. We
 | Chen et al.       | 27.60            | 
 | My implementation | 28.96            | 
 
+- Results and Comparisons (All the models were trained for only 500 epochs; increasing the number of epochs for training may increase the resultant PSNR and SSIM values)
 
 ## Low Light Image Enhancement Proposed Pipeline 
 ![Model Architecture](figures/atten_Unet_GAN.png)
