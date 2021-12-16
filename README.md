@@ -12,11 +12,15 @@ This is my Pytorch implementation of Learning to See in the Dark in CVPR 2018. F
 | Chen et al.       | 27.60            | 
 | My implementation | 28.96            | 
 
+
+**Low Light Image Enhancement Proposed Pipeline** 
+![Model Architecture](figures/atten_Unet_GAN.png)
+
 **Training & validation PSNR**
-![Training PSNR and L1 Loss](figures/training.png)
+![Training PSNR and L1 Loss](figures/atten_loss.png)
 
 **Model visual Output Comparision & attenstion weights of last layer**
-![Denoise a random image in original dataset](figures/result1.png)
+![Denoise a random image in original dataset](figures/results.png)
 
 
 **Testing cross sensor generalizaion**
